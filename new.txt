@@ -1,5 +1,8 @@
 new code
 hello git hahahah冲突了把吧！
+修改好了
+hello git  123456
+>>>>>>> 10703ee558d9ecad30562b6d58c3a32ee60e7ddc
 sunli1224 solve problem
 我又来该文件了
 
